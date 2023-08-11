@@ -1,4 +1,4 @@
-package com.logix.uc.modules.engine;
+package com.logix.uc.ui.engine;
 
 
 import org.testng.annotations.Test;
